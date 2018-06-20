@@ -1,5 +1,5 @@
-# Write your code here
-
+# # Write your code here
+#
 def usd_to_eur(amount)
   amount.to_f * 0.86
   return amount
