@@ -1,48 +1,48 @@
 # # Write your code here
-# 
+#
 # def usd_to_eur(amount)
 #   amount.to_f * 0.86
 #   return amount
 # end
-# 
+#
 # def eur_to_usd(amount)
 #   amount.to_f / 0.86
 #   return amount
 # end
-# 
+#
 # def usd_to_gbp(amount)
 #   amount.to_f * 0.75
 #   return amount
 # end
-# 
+#
 # def gbp_to_usd(amount)
 #   amount.to_f / 0.75
 #   return amount
 # end
-# 
+#
 # def usd_to_aud(amount)
 #   amount.to_f * 1.35
 #   return amount
 # end
-# 
+#
 # def aud_to_usd(amount)
 #   amount.to_f / 1.35
 #   return amount
 # end
-# 
+#
 # def usd_to_jpy(amount)
 #   amount.to_i * 110.14
 #   return amount
 # end
-# 
+#
 # def jpy_to_usd(amount)
 #   amount.to_f / 110.14
 #   return amount
 # end
-# 
+#
 # puts "How much money do you want to convert?"
 # amount = gets.chomp.to_i
-# 
+#
 # puts "Pick from the following menu:"
 # puts "1. USD to EUR"
 # puts "2. USD to JPY"
@@ -52,9 +52,9 @@
 # puts "6. JPY to USD"
 # puts "7. GBP to USD"
 # puts "8. AUD to USD"
-# 
+#
 # choice = gets.chomp.to_i
-# 
+#
 # case choice
 # when 1
 #   #code here
